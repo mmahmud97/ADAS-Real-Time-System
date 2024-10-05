@@ -1,0 +1,3 @@
+[submodule "lib/context_aware_real_time_system"]
+	path = lib/context_aware_real_time_system
+	url = git@github.com:mmahmud97/Context-Aware-Real-Time-System.git
